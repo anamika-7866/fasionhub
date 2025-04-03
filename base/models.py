@@ -5,3 +5,7 @@ class MainFrame(models.Model):
 
     def __str__(self):
         return f"MainFrame {self.id}"
+
+
+
+        
